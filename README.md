@@ -12,4 +12,6 @@ Watch tutorial on Youtube.
 
 1. Open index.html in browser
 
-2. Test
+2. Testing the branch
+
+
