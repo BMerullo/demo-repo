@@ -1,6 +1,7 @@
 .the-div {
-    height: 100px;
-    width: 100px;
+    height: 300px;
+    width: 300px;
     background-color: aqua;
     border: double green 10px;
+    margin: auto;
 }
