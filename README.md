@@ -12,6 +12,5 @@ Watch tutorial on Youtube.
 
 1. Open index.html in browser
 
-2. Testing the branch
+2. Test on Test branch
 
-3. Testing the test branch
